@@ -20,7 +20,6 @@ namespace XTabAPI.Controllers
         /// </summary>  
         /// <returns></returns>  
         [HttpGet]
-        [Authorize]
         [Route("api/AuthenticateUser")]
 
         public HttpResponseMessage AuthenticateUser()

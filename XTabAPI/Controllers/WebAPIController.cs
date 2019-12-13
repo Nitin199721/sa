@@ -10,7 +10,6 @@ using System.Web.Http.Cors;
 
 namespace XTabAPI.Controllers
 {
-    [Authorize]
     [EnableCors(origins: "*", headers: "*", methods: "*", SupportsCredentials = true)]
     public partial class WebAPIController : ApiController
     {

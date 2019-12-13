@@ -1,0 +1,10 @@
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\bin\Debug\XTabAPI.Domain.dll
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\bin\Debug\XTabAPI.Domain.pdb
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\obj\Debug\XTabAPI.Domain.csprojResolveAssemblyReference.cache
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\obj\Debug\XTabAPI.Domain.dll
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\obj\Debug\XTabAPI.Domain.pdb
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\bin\Debug\XTabAPI.Domain.dll
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\bin\Debug\XTabAPI.Domain.pdb
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\obj\Debug\XTabAPI.Domain.csprojResolveAssemblyReference.cache
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\obj\Debug\XTabAPI.Domain.dll
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Domain\obj\Debug\XTabAPI.Domain.pdb

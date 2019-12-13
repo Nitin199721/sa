@@ -1,0 +1,14 @@
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Repository.dll
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Repository.pdb
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Domain.dll
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Domain.pdb
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\obj\Debug\XTabAPI.Repository.csprojResolveAssemblyReference.cache
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\obj\Debug\XTabAPI.Repository.dll
+C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\obj\Debug\XTabAPI.Repository.pdb
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Repository.dll
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Repository.pdb
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Domain.dll
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\bin\Debug\XTabAPI.Domain.pdb
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\obj\Debug\XTabAPI.Repository.csprojResolveAssemblyReference.cache
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\obj\Debug\XTabAPI.Repository.dll
+C:\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI.Repository\obj\Debug\XTabAPI.Repository.pdb

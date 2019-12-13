@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\SVN\trunk\Nico.XTab\XTabAPI-New\XTabAPI\XTabAPI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
